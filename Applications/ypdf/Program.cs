@@ -6,6 +6,8 @@ using System.Reflection;
 using ypdf.Informing;
 using ypdf.Parsing;
 
+Console.WriteLine("Welcome to app!!!");
+
 if (args.Length == 0)
 {
     PrintVersion();
